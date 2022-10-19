@@ -5,7 +5,7 @@ Steps to get started
 
 1. Step one :
 ```
-git clone https://github.com/imanaspaul/Django-eCommerce-tutorial-manascode.git
+git clone https://github.com/rainbow112697/eCommerce_Django.git
 
 ```
 [Follow the tutorials to learn more](http://manascode.com)
